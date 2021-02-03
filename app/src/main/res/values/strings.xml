@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Expresiones Regulares</string>
+    <string name="titulo">Inicio de Sesion</string>
+    <string name="name">Nombre</string>
+    <string name="name_user">User</string>
+    <string name="passworf">password</string>
+
+    <!--HINT -->
+    <string name="name_h">Ingresa tu nombre</string>
+    <string name="user_h">Ingresa tu Usuario</string>
+
+    <!--BOTONES  -->
+    <string name="validar">Validar</string>
+
+</resources>
