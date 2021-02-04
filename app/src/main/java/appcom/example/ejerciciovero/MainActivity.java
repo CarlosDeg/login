@@ -51,6 +51,9 @@ public class MainActivity extends AppCompatActivity {
             String names = nombre.getText().toString();
             intent.putExtra("name",names);
             startActivity(intent);
+            nombre.setText("");
+            usuario.setText("");
+            pass.setText("");
         }
     }
 }
