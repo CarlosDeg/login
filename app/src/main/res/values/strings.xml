@@ -12,4 +12,13 @@
     <!--BOTONES  -->
     <string name="validar">Validar</string>
 
+
+    <!-- ACTIVITY 2 -->
+            <string name="titulo2">Registro de clientes</string>
+            <string name="btn_registrar">Registrar</string>
+    
+    <!-- ACTIVITY 3 -->
+    <string name="titulo3">Datos de clientes</string>
+    <string name="btn_modificar">Modificar</string>
+
 </resources>
